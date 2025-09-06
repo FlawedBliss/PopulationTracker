@@ -8,6 +8,7 @@
     <IsPackable>false</IsPackable>
     <AssemblyName>PopulationTracker</AssemblyName>
     <RootNamespace>PopulationTracker</RootNamespace>
+    <AssemblyVersion>0.1.0.0</AssemblyVersion>
   </PropertyGroup>
     
 </Project>
