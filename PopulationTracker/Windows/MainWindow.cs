@@ -33,7 +33,7 @@ public class MainWindow : Window, IDisposable
     {
         ImGui.BeginTable("PopulationTracker##Container", 2);
         ImGui.TableSetupColumn("##Graph", ImGuiTableColumnFlags.WidthStretch);
-        ImGui.TableSetupColumn("##Info", ImGuiTableColumnFlags.WidthMask);
+        ImGui.TableSetupColumn("##Info", ImGuiTableColumnFlags.WidthFixed, 200.0f);
         ImGui.TableNextRow();
         ImGui.TableNextColumn();
         if (ImPlot.BeginPlot("Nearby Players", new Vector2(-1, -1)))
