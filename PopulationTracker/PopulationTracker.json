@@ -1,0 +1,9 @@
+{
+  "Author": "your name here",
+  "Name": "Population Tracker",
+  "Punchline": "Tracking number of nearby players in real-time.",
+  "Description": "Tracking number of nearby players in real-time with graphing and export abilities.",
+  "ApplicableVersion": "any",
+  "Tags": [
+  ]
+}
